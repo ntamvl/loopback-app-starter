@@ -1,0 +1,22 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "loopback_starter_dev",
+    "name": "mongodb",
+    "connector": "mongodb"
+  },
+  "mysql": {
+    "name": "mysql",
+    "connector": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "database": "loopback_starter_dev",
+    "username": "root",
+    "password": "nguyen"
+  }
+}

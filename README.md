@@ -1,2 +1,3 @@
-# loopback-app-starter
-Loopback app starter 
+# LoopBack Starter App
+
+The project is starter use loopback, NodeJS
